@@ -1,0 +1,24 @@
+{
+    "python.pythonPath": "env\\Scripts\\python.exe",
+    "vsintellicode.features.python.deepLearning": "enabled",
+    "launch": {
+
+        
+
+        "configurations": [],
+        "compounds": []
+    },
+    // Configures if the built-in HTML language suggests Angular V1 tags and properties.
+"html.suggest.angular1": true,
+
+// Configures if the built-in HTML language suggests Ionic tags, properties and values.
+"html.suggest.ionic": true,
+
+// Configures if the built-in HTML language suggests HTML5 tags, properties and values.
+"html.suggest.html5": true,
+"emmet.triggerExpansionOnTab": true,
+"files.associations": {
+    "*html": "html"
+},
+
+}
