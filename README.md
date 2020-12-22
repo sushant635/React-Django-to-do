@@ -1,2 +1,4 @@
 # React-Django-to-do
-This a React app that uses Django rest framework api 
+#react #django reast framewoke
+Create a ToDo List with MaterialUI
+Also added DelEte functionality and Responsive design
